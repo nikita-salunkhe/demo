@@ -13,6 +13,6 @@ Make a seperate folder for each task. That folder should contain all the files o
 
 The folder name of the task should be:
 
-E.g. 2-7-2020_DS_Task-1_Sanket_Umredkar
+E.g. 2-7-2020_DS_Task-1_Nikita_Salunkhe
 
 In this folder all files of the respective task. The best solution of the task will be published on TRF's GitHub profile. These tasks are a part of your continuous evaluation throughout the workshop Also, make sure that while submitting you submit the task on correct repo given by your mentor. All the best!
